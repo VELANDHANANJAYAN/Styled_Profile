@@ -1,0 +1,25 @@
+body{
+    background-color: lightgray;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1,h2,h3{
+    text-align: center;
+    color:black;
+    font-size: 30px;
+}
+img{
+    border-radius: 200px;
+    display: block;
+    margin: auto;
+}
+p{
+    padding: 40px;
+    line-height: 40px;
+    background-color:darkgray;
+}
+section,div,article,hr{
+    margin: 50px;
+    padding: 1px;
+    max-width: 100%;
+    box-shadow: 200px;
+}
